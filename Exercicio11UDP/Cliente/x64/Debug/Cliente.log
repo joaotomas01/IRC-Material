@@ -1,0 +1,4 @@
+﻿  Cliente.cpp
+C:\ISEC\IRC\Exercicio11UDP\Cliente\Cliente.cpp(105,26): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\ISEC\IRC\Exercicio11UDP\Cliente\Cliente.cpp(46,7): warning C4101: 'response_address': variável local não referenciada
+  Cliente.vcxproj -> C:\ISEC\IRC\Exercicio11UDP\x64\Debug\Cliente.exe

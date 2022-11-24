@@ -1,0 +1,5 @@
+﻿  Client.c
+C:\ISEC\IRC\TCP_ex02\Client\Client.c(79,13): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\ISEC\IRC\TCP_ex02\Client\Client.c(81,47): warning C4020: 'writeN': muitos parâmetros reais
+C:\ISEC\IRC\TCP_ex02\Client\Client.c(89,51): warning C4020: 'readLine': muitos parâmetros reais
+  Client.vcxproj -> C:\ISEC\IRC\TCP_ex02\x64\Debug\Client.exe

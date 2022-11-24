@@ -1,0 +1,4 @@
+﻿  Exercise_1_client.cpp
+C:\Users\João Tomás\OneDrive - ISEC\2022-2023\1 SEMESTRE\IRC - Introdução às Redes de Comunicação\Resolucao-exercicio-1-udp\Exercise_1_client.cpp(66,27): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\João Tomás\OneDrive - ISEC\2022-2023\1 SEMESTRE\IRC - Introdução às Redes de Comunicação\Resolucao-exercicio-1-udp\Exercise_1_client.cpp(29,7): warning C4101: 'buffer': variável local não referenciada
+  Cliente.vcxproj -> C:\ISEC\IRC\Exercicio01UDP\x64\Debug\Cliente.exe

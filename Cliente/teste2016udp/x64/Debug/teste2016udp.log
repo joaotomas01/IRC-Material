@@ -1,0 +1,11 @@
+﻿  teste2016udp.cpp
+teste2016udp.obj : error LNK2019: símbolo externo não resolvido, bind, referenciado na função main
+teste2016udp.obj : error LNK2019: símbolo externo não resolvido, htonl, referenciado na função main
+teste2016udp.obj : error LNK2019: símbolo externo não resolvido, htons, referenciado na função main
+teste2016udp.obj : error LNK2019: símbolo externo não resolvido, recvfrom, referenciado na função main
+teste2016udp.obj : error LNK2019: símbolo externo não resolvido, sendto, referenciado na função main
+teste2016udp.obj : error LNK2019: símbolo externo não resolvido, setsockopt, referenciado na função main
+teste2016udp.obj : error LNK2019: símbolo externo não resolvido, socket, referenciado na função main
+teste2016udp.obj : error LNK2019: símbolo externo não resolvido, WSAStartup, referenciado na função main
+teste2016udp.obj : error LNK2019: símbolo externo não resolvido, WSAGetLastError, referenciado na função "void __cdecl Abort(char *)" (?Abort@@YAXPEAD@Z)
+C:\ISEC\IRC\cliente\x64\Debug\teste2016udp.exe : fatal error LNK1120: 9 externo não resolvidos

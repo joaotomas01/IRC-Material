@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (Exercicio_02UDP.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Cliente.cpp
+C:\ISEC\IRC\Cliente\Exercicio_02UDP\Cliente.cpp(67,27): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  Exercicio_02UDP.vcxproj -> C:\ISEC\IRC\Cliente\x64\Debug\Cliente.exe

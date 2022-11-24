@@ -1,0 +1,4 @@
+﻿  Servidor.cpp
+C:\ISEC\IRC\Exercicio11UDP\Servidor\Servidor.cpp(27,6): warning C4101: 'result': variável local não referenciada
+C:\ISEC\IRC\Exercicio11UDP\Servidor\Servidor.cpp(31,27): warning C4101: 'resposta': variável local não referenciada
+  Servidor.vcxproj -> C:\ISEC\IRC\Exercicio11UDP\x64\Debug\Servidor.exe

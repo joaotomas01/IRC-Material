@@ -1,0 +1,3 @@
+﻿  Cliente.cpp
+C:\ISEC\IRC\Exercicio_07UDP\Cliente\Cliente.cpp(92,26): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  Cliente.vcxproj -> C:\ISEC\IRC\Exercicio_07UDP\x64\Debug\Cliente.exe

@@ -1,0 +1,5 @@
+﻿  Server.c
+C:\ISEC\IRC\TCP_ex02\Server\Server.c(88,56): warning C4020: 'readLine': muitos parâmetros reais
+C:\ISEC\IRC\TCP_ex02\Server\Server.c(107,13): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\ISEC\IRC\TCP_ex02\Server\Server.c(109,51): warning C4020: 'writeN': muitos parâmetros reais
+  Server.vcxproj -> C:\ISEC\IRC\TCP_ex02\x64\Debug\Server.exe

@@ -1,0 +1,10 @@
+﻿Server.obj : error LNK2019: símbolo externo não resolvido, bind, referenciado na função main
+Server.obj : error LNK2019: símbolo externo não resolvido, htonl, referenciado na função main
+Server.obj : error LNK2019: símbolo externo não resolvido, htons, referenciado na função main
+Server.obj : error LNK2019: símbolo externo não resolvido, recvfrom, referenciado na função main
+Server.obj : error LNK2019: símbolo externo não resolvido, sendto, referenciado na função main
+Server.obj : error LNK2019: símbolo externo não resolvido, setsockopt, referenciado na função main
+Server.obj : error LNK2019: símbolo externo não resolvido, socket, referenciado na função main
+Server.obj : error LNK2019: símbolo externo não resolvido, WSAStartup, referenciado na função main
+Server.obj : error LNK2019: símbolo externo não resolvido, WSAGetLastError, referenciado na função Abort
+C:\ISEC\IRC\TesteUDP2016\x64\Debug\Server.exe : fatal error LNK1120: 9 externo não resolvidos

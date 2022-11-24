@@ -1,0 +1,5 @@
+﻿  Servidor.c
+C:\ISEC\IRC\Exercicio09UDP\Servidor\Servidor.c(89,37): warning C4267: 'função': conversão de 'size_t' para 'int', possível perda de dados
+C:\ISEC\IRC\Exercicio09UDP\Servidor\Servidor.c(85,34): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\ISEC\IRC\Exercicio09UDP\Servidor\Servidor.c(27,6): warning C4101: 'result': variável local não referenciada
+  Servidor.vcxproj -> C:\ISEC\IRC\Exercicio09UDP\x64\Debug\Servidor.exe

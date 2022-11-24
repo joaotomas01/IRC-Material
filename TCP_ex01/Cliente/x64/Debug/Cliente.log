@@ -1,0 +1,3 @@
+﻿  Cliente.c
+C:\ISEC\IRC\TCP_ex01\Cliente\Cliente.c(77,13): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  Cliente.vcxproj -> C:\ISEC\IRC\TCP_ex01\x64\Debug\Cliente.exe

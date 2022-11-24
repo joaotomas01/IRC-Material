@@ -1,0 +1,6 @@
+﻿  Client.c
+C:\ISEC\IRC\Server\Client\Client.c(64,83): warning C4047: '==': 'ULONG' difere em níveis de indireção de 'void *'
+C:\ISEC\IRC\Server\Client\Client.c(85,13): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\ISEC\IRC\Server\Client\Client.c(29,40): warning C4101: 'port': variável local não referenciada
+C:\ISEC\IRC\Server\Client\Client.c(29,27): warning C4101: 'ip': variável local não referenciada
+  Client.vcxproj -> C:\ISEC\IRC\Server\x64\Debug\Client.exe

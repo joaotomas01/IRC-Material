@@ -1,0 +1,5 @@
+﻿  Servidor.cpp
+C:\ISEC\IRC\Exercicio_07UDP\Servidor\Servidor.cpp(84,99): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\ISEC\IRC\Exercicio_07UDP\Servidor\Servidor.cpp(27,6): warning C4101: 'result': variável local não referenciada
+C:\ISEC\IRC\Exercicio_07UDP\Servidor\Servidor.cpp(31,27): warning C4101: 'resposta': variável local não referenciada
+  Servidor.vcxproj -> C:\ISEC\IRC\Exercicio_07UDP\x64\Debug\Servidor.exe
